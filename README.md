@@ -13,7 +13,7 @@ Shading the region of CDF
 ## How to Run
 * system should have installed python3
 * Import following modules
-- numpy
-- matplotlib
-- scipy
-- turtle
+1) numpy
+2) matplotlib
+3) scipy
+4) turtle
