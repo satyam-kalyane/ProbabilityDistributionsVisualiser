@@ -11,8 +11,8 @@ Calculating mean , variance , CDF
 Shading the region of CDF
 
 ## How to Run
-system should have installed python3
-Import following modules
+* system should have installed python3
+* Import following modules
 - numpy
 - matplotlib
 - scipy
